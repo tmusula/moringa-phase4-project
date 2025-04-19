@@ -1,6 +1,6 @@
 # MODEL INTERPRETABILITY
 
-# Interpretable Machine Learning for Chicago Traffic Crashes
+# Interpretable Models for Chicago Traffic Crashes
 
 This project focuses on predicting the **primary contributory cause** of traffic crashes in Chicago using both traditional and neural network models. Emphasis is placed on **interpretability** to help public safety stakeholders understand the factors influencing crash causes.
 
