@@ -100,13 +100,15 @@ Cross-validation was used to ensure generalizability.
 
 ### Global Interpretability
 - Feature importances from Random Forest and XGBoost
+  
 # Random Forest 
 - ![image](https://github.com/user-attachments/assets/cda84dbf-880f-4ec1-9caf-c42b00abe755)
 - ![image](https://github.com/user-attachments/assets/5e1e9634-c867-4678-8be2-bf102fedd4f5)
+  
 # XGBoost
  - ![image](https://github.com/user-attachments/assets/7b9daef9-3718-431e-8d9d-9e16897f8f2a)
  - ![image](https://github.com/user-attachments/assets/65e4be63-f004-4c58-94b2-28fe42335dfb)
-
+   
 - Top Features included:
   - Driver condition (Fatigue, intoxication)
   - Lighting condition
