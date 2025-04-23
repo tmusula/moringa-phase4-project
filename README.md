@@ -41,7 +41,7 @@ Data was sourced from the [Chicago Data Portal](https://data.cityofchicago.org/)
 ## Data Preparation
 
 - Merged datasets on `CRASH_RECORD_ID`
-  - <pre><code>```python df_driver = pd.merge(df_vehicles, df_people1, on='CRASH_RECORD_ID', how='inner') merged_df = pd.merge(df_crashes, df_driver, on='CRASH_RECORD_ID', how='inner') ``` </code></pre>
+  <pre><code>```python df_driver = pd.merge(df_vehicles, df_people1, on='CRASH_RECORD_ID', how='inner') merged_df = pd.merge(df_crashes, df_driver, on='CRASH_RECORD_ID', how='inner') ``` </code></pre>
   
 - Filtered for drivers only (`PERSON_TYPE == 'DRIVER'`)
 - Removed rows with null values for essential columns
