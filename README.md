@@ -77,8 +77,8 @@ Data was sourced from the [Chicago Data Portal](https://data.cityofchicago.org/)
 - Artificial Neural Network (ANN)
   - 5 layers with Dropout and Batch Normalization
   - Early stopping to prevent overfitting
-  - Accuracy: 25.8%
-  - F1 score: 26.5%
+  - Accuracy: 52%
+  - Weighted F1 score: 55%
 - XGBoost and Random Forest are  the better performing model.
 - XGBoost being the better one because of higher F1 score for the different categories.
 
