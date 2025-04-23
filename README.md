@@ -7,14 +7,14 @@ This project focuses on predicting the **primary contributory cause** of traffic
 ---
 ## Table of Contents
 
-. Objective
-. Dataset
-. Data Preparation
-. Models Used
-. Evaluation Metrics
-. Interpretability
-. Results Summary
-. Conclusion
+* Objective
+* Dataset
+* Data Preparation
+* Models Used
+* Evaluation Metrics
+* Interpretability
+* Results Summary
+* Conclusion
 
 ## Objectives
 * Predict the primary contributory cause in Chicago City
